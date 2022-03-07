@@ -32,6 +32,14 @@
       }
     ]
   },
-  "publishedLayoutmongoEscapedWidgets": {},
-  "unpublishedLayoutmongoEscapedWidgets": {}
+  "publishedLayoutmongoEscapedWidgets": {
+    "Movies": [
+      "data_table"
+    ]
+  },
+  "unpublishedLayoutmongoEscapedWidgets": {
+    "Movies": [
+      "data_table"
+    ]
+  }
 }
